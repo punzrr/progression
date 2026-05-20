@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/punzrr/package_test/progression/arithmetic"
-	"github.com/punzrr/package_test/progression/geometric"
+	"github.com/punzrr/progression/arithmetic"
+	"github.com/punzrr/progression/geometric"
 )
 
 func main() {
