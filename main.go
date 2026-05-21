@@ -11,4 +11,6 @@ func main() {
 	fmt.Println(val, err)
 	val, err = geometric.GetVal(-4, 4, 7)
 	fmt.Println(val, err)
+	val, err = arithmetic.GetVal(10, 0, 99)
+	fmt.Println(val, err)
 }
